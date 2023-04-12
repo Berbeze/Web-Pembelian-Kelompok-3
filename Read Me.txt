@@ -1,11 +1,10 @@
 Install Localhost:
 
-1. Buat database dengan nama db_penjualan.
-2. Extract File pos.zip yang didownload kedalam directori:
+1. Buat database dengan nama adp_penjualan.
    C:\\wamp\www (jika menggunakan WAMPSERVER).
    C:\\xampp\htdocs (jika menggunakan XAMPP).
    NB: PAstikan anda mengaktifkan Rewrite Module pada webserver Anda.!
-3. Buka http://localhost/phpmyadmin. Lalu import db_penjualan.sql kedalam database yang ada buat.
-   NB: file db_penjualan.sql terdapat pada folder pos.zip
-4. Pada Browser Buka URL http://localhost/pos/
+3. Buka http://localhost/phpmyadmin. Lalu import adp_penjualan.sql kedalam database yang ada buat.
+   NB: file adp_penjualan.sql terdapat pada folder
+4. Pada Browser Buka URL http://localhost/adp_pembelian/
 5. Selesai.  
